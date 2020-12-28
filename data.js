@@ -16,3 +16,14 @@ const sublinks = [
         { label: 'billing', icon: 'fas fa-book', url: 'products.html' },
       ],
     },
+    {
+        page: 'company',
+        links: [
+          { label: 'about', icon: 'fas fa-briefcase', url: 'products.html' },
+          { label: 'customers', icon: 'fas fa-briefcase', url: 'products.html' },
+        ],
+      },
+    ];
+    
+    export default sublinks;
+    
